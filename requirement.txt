@@ -1,0 +1,5 @@
+bcrypt==3.2.0
+cryptography==36.0.1
+platformdirs==2.4.0
+pyperclip==1.8.2
+tk==0.1.0
